@@ -5533,7 +5533,7 @@ textarea.form-control-lg {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #fff;
+  background-color: #f8ecdb;
   background-clip: padding-box;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-radius: 0.3rem;
@@ -11463,6 +11463,8 @@ header.masthead .masthead-heading {
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   display: flex;
+  border-top-left-radius: .3rem;
+  border-top-right-radius: .3rem;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -11724,7 +11726,7 @@ header.masthead .masthead-heading {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../assets/img/macaroons-3311854_1920.jpg");
+  background:  linear-gradient(rgba(255, 246, 224, 1) 0%, rgba(28, 31, 35, 1) 5%, rgba(28, 31, 35, 1) 95%, rgba(248, 236, 219, 1) 100%);
   background-repeat: no-repeat;
   background-position: center;
 }
