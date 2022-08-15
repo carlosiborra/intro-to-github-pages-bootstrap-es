@@ -47,7 +47,7 @@
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 200, 0;
   --bs-danger-rgb: 220, 53, 69;
-  --bs-light-rgb: 248, 249, 250;
+  --bs-light-rgb: 255, 246, 224;
   --bs-dark-rgb: 33, 37, 41;
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 0, 0, 0;
@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #f8ecdb;
 }
 
 *,
@@ -11418,7 +11418,8 @@ header.masthead {
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
-  font-style: italic;
+  font-style: regular;
+  color: #f8ecdb;
   line-height: 1.5rem;
   margin-bottom: 25px;
   font-family: "Roboto Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -11426,6 +11427,7 @@ header.masthead .masthead-subheading {
 header.masthead .masthead-heading {
   font-size: 3.25rem;
   font-weight: 700;
+  color: #f8ecdb;
   line-height: 3.25rem;
   margin-bottom: 2rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -11480,7 +11482,9 @@ header.masthead .masthead-heading {
 #portfolio .portfolio-item .portfolio-caption {
   padding: 1.5rem;
   text-align: center;
-  background-color: #fff;
+  background-color: #f8ecdb;
+  border-bottom-left-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
 }
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
   font-size: 1.5rem;
@@ -11543,10 +11547,10 @@ header.masthead .masthead-heading {
   top: 0;
   bottom: 0;
   left: 40px;
-  width: 2px;
+  width: 4px;
   margin-left: -1.5px;
   content: "";
-  background-color: #e9ecef;
+  background-color: #fff6e0;
 }
 .timeline > li {
   position: relative;
@@ -11588,7 +11592,7 @@ header.masthead .masthead-heading {
   margin-left: 0;
   text-align: center;
   color: white;
-  border: 7px solid #e9ecef;
+  border: 7px solid #fff6e0;
   border-radius: 100%;
   background-color: #ffc800;
 }
@@ -11776,4 +11780,19 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: center;
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+
+
+/*! CREATED ONES */
+
+img.rounded-top-corners
+{
+  border-top-left-radius: .3rem;
+  border-top-right-radius: .3rem;
+}
+
+bg-color-2
+{
+  background-color: #ffc800;
 }
