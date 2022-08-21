@@ -40,7 +40,7 @@ Siéntete libre de robarme el código. Todo tuyo. :wink:
   
   ### GitHub Pages
   * GitHub Pages: https://pages.github.com/
-  * Getting Started: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+  * Getting Started: https://docs.github.com/en/pages/getting-started-with-github-pages
   * Usos e Informaión Útil: https://github.com/cristinafsanz/github-pages
   
   ### Temas de Bootstrap Gratis
