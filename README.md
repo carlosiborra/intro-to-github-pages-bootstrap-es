@@ -1,5 +1,4 @@
-# Este Repositorio es un Ejemplo
+# Sobre este repositorio
 </br>
-Es un ejemplo para explicar en youtube como hacer una página gratis.
-
-Siéntete libre para explorar todos los archivos
+Este repo simplemente es un ejemplo que hice para poder explicar como hacer una página web gratis en mi canal de youtube.
+Siéntete libre de robarme mi código.
