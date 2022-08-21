@@ -1,25 +1,56 @@
 <!-- Hello World! This is Carlos Iborra's (@carlosiborra) -->
 
-# Hola Mundo
+# ¡Hola Mundo!
+
+<a href = "url"><img src = "https://media.giphy.com/media/MRmLAJ7QWiV2LcqJrh/giphy.gif" align="right" width="200" height="160"></a>
+
 ## Tabla De Contenidos
-<a href = "url"><img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gifhttps://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" align="right" width="160" height="150"></a>
 * [Tabla De Contenidos](#tabla-de-contenidos) 
-* [Skills](#skills)
-* [Projects](#projects)
-  - [Binance Automation](#binance-automation)
-  - [OpenSea Automation](#opensea-automation)
-  - [Automatic Fish Feeder](#automatic-fish-feeder)
-* [Contact](#contact)
+* [Sobre Este Repositorio](#sobre-este-repositorio)
+  - [Información](#información)
+  - [Acerca de](#acerca-de)
+* [Links De Interés](#links-de-interés)
+  - [Temas De Bootstrap Gratis](#temas-de-bootstrap-gratis)
+  - [GitHub Pages](#github-pages)
+  - [Imágenes](#imágenes)
+  - [Gifs](#gifs)
+  - [Iconos](#iconos)
 
+<hr>
 
-## Sobre este repositorio
+## Sobre Este Repositorio
 
-Este repo es simplemente un ejemplo que hice para poder explicar como hacer una página web gratis en mi canal de youtube.
-Siéntete libre de robarme mi código. Todo tuyo.
+Este repo es simplemente un ejemplo que hice para poder explicar como hacer una página web gratis para mi canal de youtube. <br>
+Siéntete libre de robarme el código. Todo tuyo. :wink:
 
-## Acerca de.
+  ### Información
+  Hecho con bootstrap 5 usando un template y haciendo algunas modificaciones mínimas.
+  
+  ### Acerca De
+  * Link a la página web: https://carlosiborra.github.io/intro-to-github-pages-bootstrap-es/ <br>
+  * Link al video: https://youtube.com/video/test
 
 
 ## Links de interés
-
-
+   
+  ### Imágenes
+  * Pexels: https://www.pexels.com/
+  * Pixabay: https://pixabay.com/
+  * Freepik: https://www.freepik.com/
+  
+  ### GitHub Pages
+  * GitHub Pages: https://pages.github.com/
+  * Getting Started: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+  * Usos e Informaión Útil: https://github.com/cristinafsanz/github-pages
+  
+  ### Temas de Bootstrap Gratis
+  * Start Bootstrap: https://startbootstrap.com/
+  * Theme Wagon: https://themewagon.com/theme-framework/bootstrap-5/
+  
+  ### Gifs
+  * Giphy: https://giphy.com/
+  * Gifer: https://gifer.com/
+  
+  ### Iconos
+  * Shields.io: https://shields.io/
+  * Font Awesome: https://fontawesome.com/
