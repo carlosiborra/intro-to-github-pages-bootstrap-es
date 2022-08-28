@@ -21,7 +21,7 @@
 ## Sobre Este Repositorio
 
 Este repo es simplemente un ejemplo que hice para poder explicar como hacer una página web gratis para mi canal de youtube. <br>
-Siéntete libre de robarme el código. Todo tuyo. :wink:
+Siéntete libre de explorar el código y todos los commits que he ido haciendo para apreciar los cambioos. Todo tuyo. :wink:
 
   ### Información
   Hecho con bootstrap 5 usando un template y haciendo algunas modificaciones mínimas.
